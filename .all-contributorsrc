@@ -2235,6 +2235,24 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "johnDeSilencio",
+      "name": "Nicholas R. Smith",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20136554?v=4",
+      "profile": "https://johndesilencio.me",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "alexfertel",
+      "name": "Alexander González",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22298999?v=4",
+      "profile": "https://alexfertel.me",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 8,
